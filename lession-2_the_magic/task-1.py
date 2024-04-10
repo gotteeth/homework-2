@@ -1,6 +1,9 @@
 #Lesson 2: The Magic of Conditional Statements: Assignments: Dive Deeper
 
 #int vs float ? dose it matter ? 
+                                #besides that i understand this.....
+
+
 
 number = int(input("Enter a number: "))
 

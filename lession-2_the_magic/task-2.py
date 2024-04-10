@@ -2,7 +2,8 @@
 
 #task 1 
 
-#though need more practice 
+#tough, need more practice 
+            #but fairly comfortable 
 
 number1 = int(input("enter you first number: " ))
 number2 = int(input("enter your second number: "))

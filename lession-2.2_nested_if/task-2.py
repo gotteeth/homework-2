@@ -1,6 +1,6 @@
 #Quick Decisions: The Event Planner 
 
-
+# i understand this concept 
 
 
 attendees = int(input ("enter number of attendees: "))

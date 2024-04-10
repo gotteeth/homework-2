@@ -1,5 +1,5 @@
 # task 1 code correct
-
+                                            # i understand this concept 
  
 #Nested Decisions: The Adventure Game
 
@@ -33,4 +33,4 @@ if place == "cave":
         print ("you found hidden treasure!")
 else:
     print ("you found a hidden oasis!")
-    pass 
+    pass #not sure if this is what you meant by this... 
