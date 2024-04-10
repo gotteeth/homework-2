@@ -2,6 +2,8 @@
 
 #task 1 
 
+#though need more practice 
+
 number1 = int(input("enter you first number: " ))
 number2 = int(input("enter your second number: "))
 number3 = int(input("enter you third number here: "))
