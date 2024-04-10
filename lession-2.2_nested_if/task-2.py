@@ -4,14 +4,13 @@
 
 
 attendees = int(input ("enter number of attendees: "))
-venue = "large hall" 
-
+venue1 = "large hall" 
+venue2 = "conference room"
 
 if attendees > 100:
-    venue = "conference room"
-
-print("Welcome to the Santana Inn, your party will be in the," ,venue , "enjoy your stay!")
-
+    print("Welcome to the Santana Inn, your party will be in the," ,venue1 , "enjoy your night!")
+else: 
+    print ("Welcome to the Santana Inn, you party will be in the, " ,venue2 , "enjoy you night!" )
 
 
 
